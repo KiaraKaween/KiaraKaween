@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KiaraKaween
+- 👋 Hi, I’m @KiaraGomez
 - 👀 I’m interested in Practising and Learning new stuff <3
 - 🌱 I’m currently learning Python!
 - 💞️ I’m looking to collaborate on Anything
